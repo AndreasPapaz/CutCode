@@ -1,0 +1,34 @@
+<div class="row text-center go-home">
+	<a href="/" class="btn btn-default">go home</a>
+</div>
+
+{{#each products}}
+
+		<div class="container col-md-6 col-sm-12 col-xs-12">
+			<div class="shopBlock">
+				<a href="#"><img class="rounded-0" src={{this.img}}/></a>
+				<br>
+					<div class="row text-center">
+							<b>{{this.Title}}</b>
+							<i>${{this.price}}</i>
+					</div>
+
+					<div class="row text-center">
+
+							{{#if this.saved}}
+
+								<a id="{{this._id}}" onClick="window.location.reload();" class="btn btn-success add disabled">Add</a>
+								<a id="{{this._id}}" onClick="window.location.reload();" class="btn btn-danger delete">Remove</a>
+
+							{{else}}
+
+								<a id="{{this._id}}" onClick="window.location.reload();" class="btn btn-success add">Add</a>
+								<a id="{{this._id}}" onClick="window.location.reload();" class="btn btn-danger delete">Remove</a>
+
+							{{/if}}
+
+					</div>
+			</div>
+		</div>
+
+{{/each}}
