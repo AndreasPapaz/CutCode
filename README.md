@@ -5,23 +5,23 @@ Home Page (top left: cart interactive from shop page)
 ![Image of Homepage- Home](http://i.imgur.com/JRPHY0l.png)
 
 Home Page Lower. Featured products form MongoDB.
-![Image of Homepage-lower](http://imgur.com/nUHAnS9)
+![Image of Homepage-lower](http://i.imgur.com/nUHAnS9.png)
 
 Home Page Mobile
-![Image of Homepage-lower](http://imgur.com/s57aXSC)
+![Image of Homepage-lower](http://i.imgur.com/s57aXSC.png)
 
 Home Page Mobile Lower
-![Image of Homepage-lower](http://imgur.com/4vGZgPE)
+![Image of Homepage-lower](http://i.imgur.com/4vGZgPE.png)
 
 Home Page Mobile Footer
-![Image of Homepage-lower](http://imgur.com/cL8d1ub)
+![Image of Homepage-lower](http://i.imgur.com/cL8d1ub.png)
 
 (click on "shop now" button form home page.)
 2 column page
-![Image of Homepage-lower](http://imgur.com/RTYBti1)
+![Image of Homepage-lower](http://i.imgur.com/RTYBti1.png)
 
 2 column page Mobile
-![Image of Homepage-lower](http://imgur.com/ytQwp6M)
+![Image of Homepage-lower](http://i.imgur.com/ytQwp6M.png)
 
 
 ## Technologies used
