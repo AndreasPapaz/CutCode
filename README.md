@@ -2,7 +2,7 @@
 
 ## Screenshots
 Home Page (top left: cart interactive from shop page)
-![Image of Homepage- Home](http://imgur.com/JRPHY0l)
+![Image of Homepage- Home](http://i.imgur.com/JRPHY0l.png)
 
 Home Page Lower. Featured products form MongoDB.
 ![Image of Homepage-lower](http://imgur.com/nUHAnS9)
