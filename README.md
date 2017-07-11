@@ -1,5 +1,8 @@
 # Cut Code
 
+For this project i loaded a MongoDB database of 6 existing products in stock. If the product is tagged with "feat" it will show on the feature row on the home page. From the "shop" page you can add the product to your cart and the "items" and "total" at the top left will update accordingly. The delete button will remove this product form the shopping cart. This template will allow for a quick update from the shops database vs hard coding the html to update the product. 
+
+
 ## Screenshots
 Home Page (top left: cart interactive from shop page)
 ![Image of Homepage- Home](http://i.imgur.com/JRPHY0l.png)
