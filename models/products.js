@@ -8,7 +8,8 @@ var productSchema = new Schema({
 	},
 	img: String,
 	price: Number,
-	saved: Boolean
+	saved: Boolean,
+	feat: Boolean
 });
 
 var products = mongoose.model("products", productSchema);
